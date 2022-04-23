@@ -1,0 +1,10 @@
+Un Bot : Un bot est un agent logiciel qui fonctionne sur Internet 
+et effectue des tâches répétitives.
+ 
+Les fichiers log peuvent servir à de nombreuses choses, 
+du fait de leur fonctionnement. En effet, 
+ils sont générés pour enregistrer ce qui se passe sur un outil informatique
+
+le logging est un outil très utile dans la boîte à outils d'un programmeur.
+ Cela peut vous aider à mieux comprendre le déroulement d'un programme 
+et à découvrir des scénarios auxquels vous n'auriez peut-être même pas pensé lors du développement.
